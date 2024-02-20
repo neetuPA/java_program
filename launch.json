@@ -1,0 +1,322 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Rps",
+            "request": "launch",
+            "mainClass": "Rps",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "PasswordChecker",
+            "request": "launch",
+            "mainClass": "PasswordChecker",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "PasswordAuthentication",
+            "request": "launch",
+            "mainClass": "PasswordAuthentication",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Login_test",
+            "request": "launch",
+            "mainClass": "Login_test",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Calculation",
+            "request": "launch",
+            "mainClass": "Calculation",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Complex",
+            "request": "launch",
+            "mainClass": "Complex",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Complex2",
+            "request": "launch",
+            "mainClass": "Complex2",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Condtion",
+            "request": "launch",
+            "mainClass": "Condtion",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Controlstatement",
+            "request": "launch",
+            "mainClass": "Controlstatement",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Decisionmaking",
+            "request": "launch",
+            "mainClass": "Decisionmaking",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Dowhile",
+            "request": "launch",
+            "mainClass": "Dowhile",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Fibbonaci",
+            "request": "launch",
+            "mainClass": "Fibbonaci",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Findprime",
+            "request": "launch",
+            "mainClass": "Findprime",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Greater",
+            "request": "launch",
+            "mainClass": "Greater",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Ifelse",
+            "request": "launch",
+            "mainClass": "Ifelse",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Interest",
+            "request": "launch",
+            "mainClass": "Interest",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Lablledbreak",
+            "request": "launch",
+            "mainClass": "Lablledbreak",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Leapyear",
+            "request": "launch",
+            "mainClass": "Leapyear",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Logicalop",
+            "request": "launch",
+            "mainClass": "Logicalop",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Loop3",
+            "request": "launch",
+            "mainClass": "Loop3",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Loops2",
+            "request": "launch",
+            "mainClass": "Loops2",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Oddeven",
+            "request": "launch",
+            "mainClass": "Oddeven",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "Operators",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Patter3",
+            "request": "launch",
+            "mainClass": "Patter3",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Pattern3",
+            "request": "launch",
+            "mainClass": "Pattern3",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Pattern4",
+            "request": "launch",
+            "mainClass": "Pattern4",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Pettern",
+            "request": "launch",
+            "mainClass": "Pettern",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Pratice",
+            "request": "launch",
+            "mainClass": "Pratice",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Pyramid",
+            "request": "launch",
+            "mainClass": "Pyramid",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Recursive",
+            "request": "launch",
+            "mainClass": "Recursive",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Shiftop",
+            "request": "launch",
+            "mainClass": "Shiftop",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "Square",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Sumexcludimg",
+            "request": "launch",
+            "mainClass": "Sumexcludimg",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "Typeconversion",
+            "request": "launch",
+            "mainClass": "Typeconversion",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "User",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "vs coode_53c8bde9"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "vs coode_53c8bde9"
+        }
+    ]
+}
